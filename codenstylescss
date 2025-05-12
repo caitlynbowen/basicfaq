@@ -25,7 +25,7 @@ background-color: #FBFAFA;
 }
 </style>
 <details>
-  <summary><h3 class="solid">Question &darr;</h3></summary>
+  <summary><h3 class="solid">Question<span style="padding-left: 405px";>&darr;</span></h3></summary> //I added a span to push the arrows to the right, this is not mobile responsive
   <div>
 		<ul class=solid>
 			Title for answer:
