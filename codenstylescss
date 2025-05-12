@@ -1,0 +1,119 @@
+<html>
+<div class="container"> //this code was already set on the site, resued div class
+<h2>Frequently Asked Questions</h2>
+<style>
+h3.solid 
+{
+border-style: solid;
+border-radius: 10px;
+padding: 10px;
+background-color: #F2F0EF;
+}
+p.solid 
+{
+border-style: solid;
+border-radius: 10px;
+padding: 10px;
+background-color: #FBFAFA;
+}
+ul.solid
+{
+border-style: solid;
+border-radius: 10px;
+padding: 10px;
+background-color: #FBFAFA;
+}
+</style>
+<details>
+  <summary><h3 class="solid">Question &darr;</h3></summary>
+  <div>
+		<ul class=solid>
+			Title for answer:
+			<li>A</li>
+			<li>A</li>
+			<li>A</li>
+			<li>A</li>
+			<li>A</li>
+			<li>A.</li>
+		</ul>
+  </div>
+</details>
+<details>
+  <summary><h3 class=solid>Question?</h3></summary>
+  <div>
+<ul class=solid>
+			Title for answer:
+			<li>A</li>
+			<li>A</li>
+			<li>A</li>
+			<li>A</li>
+			<li>A</li>
+		</ul>
+  </div>
+</details>
+<details>
+  <summary><h3 class=solid>Question?</h3></summary>
+  <div>
+  <p class=solid>
+   A
+ </p>
+  </div>
+</details>
+<details>
+  <summary><h3 class=solid>Question?</h3></summary>
+  <div>
+  <p class=solid>
+   A
+  </p>
+  </div>
+</details>
+ <details>
+  <summary><h3 class=solid>Q?</h3></summary>
+  <div>
+  <p class=solid>
+   A
+  </p>
+  </div>
+</details>
+<details>
+  <summary><h3 class=solid>Q?</h3></summary>
+  <div>
+  <p class=solid>
+  A
+  </p>
+  </div>
+</details>
+<details>
+  <summary><h3 class=solid>Q?</h3></summary>
+  <div>
+  <p class=solid>
+   A
+  </p>
+  </div>
+</details>
+<details>
+  <summary><h3 class=solid>Q?</h3></summary>
+  <div>
+  <p class=solid>
+  A
+  </p>
+  </div>
+</details>
+<details>
+  <summary><h3 class=solid>Q?</h3></summary>
+  <div>
+  <p class=solid>
+   A
+  </p>
+  </div>
+</details>
+<details>
+  <summary><h3 class=solid>Q?</h3></summary>
+  <div>
+  <p class=solid>
+ A
+  </p>
+  </div>
+</details>
+</div>
+</html>
